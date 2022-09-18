@@ -1,12 +1,8 @@
 import type { NextPage } from "next";
-import ResponsiveAppBar from "../components/appbar";
-
-const divStyle = {
-	color: "blue",
-};
+import SUCA from "../components/title";
 
 const Home: NextPage = () => {
-	return <div style={divStyle}>WIP</div>;
+	return <SUCA></SUCA>;
 };
 
 export default Home;
