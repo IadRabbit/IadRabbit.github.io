@@ -1,0 +1,11 @@
+@import url('http://fonts.cdnfonts.com/css/trincha');
+
+.title {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+	color: black;
+	font-size: 40px;
+	font-family: 'Trincha', sans-serif;
+}
