@@ -4,7 +4,7 @@ import ResponsiveAppBar from '../components/appbar'
 const Home: NextPage = () => {
 	return (
 		<div>
-			<ResponsiveAppBar />
+			WIP
 		</div>
 	)
 }
